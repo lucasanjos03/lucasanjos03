@@ -29,7 +29,7 @@ Me chamo Lucas Anjos, tenho 21 anos. Atualmente, estou cursando Sistemas de Info
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
 <br/>
