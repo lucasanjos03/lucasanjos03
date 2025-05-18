@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lucas Anjos
 
-**`Aspirante à Desenvolvedor`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Lucas Anjos, tenho 21 anos. Atualmente, estou cursando Sistemas de Informação. 
 
